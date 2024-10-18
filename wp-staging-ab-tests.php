@@ -8,7 +8,7 @@ namespace WpStaging\AbTesting;
  * Description: Run simple A/B tests on your WordPress site.
  * Author: René Hermenau
  * Author URI: https://wp-staging.com
- * Version: 1.0.0
+ * Version: 0.0.1
  * Text Domain: wpstgab
  * Domain Path: languages
  *
